@@ -33,6 +33,9 @@
     <setting name="root" />
   </component>
   <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="JUnitGeneratorProjectSettings">
+    <option name="outputFilePattern" value="${SOURCEPATH}/../../test/java/${PACKAGE}/test/${FILENAME}" />
+  </component>
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" />
     <option name="OPTION_SCOPE" value="protected" />

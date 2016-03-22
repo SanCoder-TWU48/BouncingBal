@@ -9,7 +9,7 @@ public class BallFactory {
         return new Ball[]{
                 bouncingBall(75, 50, Bouncing.DOWN),
                 elasticBall(250, 100, Ball.DEFAULT_RADIUS, Elastic.SHRINK),
-                elasticBouncingBall(250, 100, Ball.DEFAULT_RADIUS, Bouncing.DOWN, Elastic.SHRINK)
+                elasticBouncingBall(425, 100, Ball.DEFAULT_RADIUS, Bouncing.DOWN, Elastic.SHRINK)
         };
     }
 
